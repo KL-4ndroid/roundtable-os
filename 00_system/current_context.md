@@ -57,6 +57,27 @@ Each project continues until it is completed, paused, merged, retired, or archiv
 
 ---
 
+## Required role startup guardrail
+
+Every role room must follow:
+
+```text
+00_system/role_startup_protocol.md
+```
+
+This protocol defines the shared reading order, role boundary check, anti-drift checklist, handoff rules, and Control Room checkpoint.
+
+If a role conversation starts to drift, return to:
+
+1. `00_system/current_context.md`
+2. `00_system/role_startup_protocol.md`
+3. the target project's `00_project_brief.md`
+4. the target project's `07_compacted_summary.md`
+5. the target project's `03_decisions.md`
+6. Control Room for final decision
+
+---
+
 ## Current active projects
 
 No active project has been created yet.
@@ -90,4 +111,4 @@ A-001_first-feature-hypothesis
 
 ## Last updated
 
-2026-07-01
+2026-07-02
