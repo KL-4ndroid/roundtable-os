@@ -80,32 +80,19 @@ If a role conversation starts to drift, return to:
 
 ## Current active projects
 
-No active project has been created yet.
-
-When a new project starts, add it to:
-
-- `00_system/project_status_index.md`
-- the relevant global index under `02_global_records/`
-- `01_project_files/`
+| Project ID | Project name | Status | Current next step |
+|---|---|---|---|
+| P-001 | Instagram 手作市集品牌主痛點探索 | VALIDATING | Send to Audience Insight Room, then Instagram Content Room |
 
 ---
 
 ## Current next step
 
-Create the first real project folder by copying:
+Continue `P-001_instagram-pain-point-discovery`:
 
-```text
-01_project_files/_PROJECT_TEMPLATE/
-```
-
-Then rename it, for example:
-
-```text
-P-001_first-pain-point
-T-001_first-free-tool
-M-001_first-template-product
-A-001_first-feature-hypothesis
-```
+1. Ask `01｜Audience Insight Room` to refine pain point categories and observation questions.
+2. Ask `03｜Instagram Content Room` to turn the 14-day plan into post topics, story prompts, and CTAs.
+3. Return to `00｜Control Room` on Day 7 and Day 14 for signal review and decision.
 
 ---
 
