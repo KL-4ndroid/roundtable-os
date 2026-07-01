@@ -48,6 +48,12 @@ Roundtable OS is useful for:
 
 ```text
 roundtable-os/
+├─ README.md
+├─ LICENSE.md
+├─ NOTICE.md
+├─ TRADEMARKS.md
+├─ COMMERCIAL.md
+│
 ├─ 00_system/
 │  ├─ current_context.md
 │  ├─ role_map.md
@@ -154,6 +160,33 @@ RETIRED    Retired or archived
 
 ---
 
-## License / usage
+## License and usage
 
-This repository is intended as an open, reusable documentation system. Add a license file before public distribution if you want to define explicit reuse permissions.
+Roundtable OS Core is open under **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You may use, share, adapt, and build upon the documentation, templates, workflows, and written materials, including for commercial use, as long as you provide attribution.
+
+Recommended attribution:
+
+```text
+Based on Roundtable OS｜圓桌工作系統 by KL-4ndroid and Roundtable OS contributors, licensed under CC BY 4.0.
+```
+
+See:
+
+- `LICENSE.md` for license details
+- `NOTICE.md` for attribution guidance
+- `TRADEMARKS.md` for name and branding usage
+- `COMMERCIAL.md` for commercial offerings and open-core direction
+
+---
+
+## Commercial direction
+
+The core system is open so more people can use, adapt, and improve it.
+
+Premium templates, setup services, workshops, consulting, hosted tools, automation scripts, vertical versions, or official programs may be offered separately.
+
+In short:
+
+> Core open. Brand protected. Advanced implementation can be commercial.
