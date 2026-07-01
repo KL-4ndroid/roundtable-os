@@ -25,7 +25,7 @@ This is a dashboard, not a full record. Keep it short.
 
 | Project ID | Project name | Type | Status | Owner room | Last updated | Next action |
 |---|---|---|---|---|---|---|
-| Example | Example project | Pain point / Tool / Template / Product | IDEA | Control Room | YYYY-MM-DD | Create project brief |
+| P-001 | Instagram 手作市集品牌主痛點探索 | Pain point validation | VALIDATING | Control Room | 2026-07-02 | Send to Audience Insight Room, then Instagram Content Room |
 
 ---
 
