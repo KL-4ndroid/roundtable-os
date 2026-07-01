@@ -43,10 +43,15 @@ Raw logs preserve history, but they are not the most current source of truth.
 Before responding, each role should read:
 
 1. `00_system/current_context.md`
-2. the target project's `00_project_brief.md`
-3. the target project's `07_compacted_summary.md`
-4. the relevant role output file under `02_role_outputs/`
-5. the specific task or handoff request
+2. `00_system/role_map.md`
+3. `00_system/operating_rules.md`
+4. `00_system/role_startup_protocol.md`
+5. the role's own role file under `00_system/roles/` if available
+6. the target project's `00_project_brief.md`
+7. the target project's `07_compacted_summary.md`
+8. the target project's `03_decisions.md`
+9. the relevant role output file under `02_role_outputs/`
+10. the specific task or handoff request
 
 Only read `01_roundtable_log.md` or `99_raw_archive.md` when more detail is needed.
 
