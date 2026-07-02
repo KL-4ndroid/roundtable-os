@@ -82,17 +82,19 @@ If a role conversation starts to drift, return to:
 
 | Project ID | Project name | Status | Current next step |
 |---|---|---|---|
-| P-001 | Instagram 手作市集品牌主痛點探索 | VALIDATING | Send to Audience Insight Room, then Instagram Content Room |
+| P-001 | Instagram 0 粉啟動｜手作市集品牌主共鳴內容 | BUILDING | Produce first 3 publish-ready posts, then review signals |
 
 ---
 
 ## Current next step
 
-Continue `P-001_instagram-pain-point-discovery`:
+Continue `P-001_instagram-pain-point-discovery` with revised priority:
 
-1. Ask `01｜Audience Insight Room` to refine pain point categories and observation questions.
-2. Ask `03｜Instagram Content Room` to turn the 14-day plan into post topics, story prompts, and CTAs.
-3. Return to `00｜Control Room` on Day 7 and Day 14 for signal review and decision.
+1. Ask `03｜Instagram Content Room` to turn IG-001, IG-002, and IG-003 into final carousel page copy and captions.
+2. Use the account positioning: 市集陪跑、顧問、品牌主共鳴、經營痛點整理。
+3. Publish the first 3 posts across the first week.
+4. Track follows, saves, shares, comments, story replies, and useful user wording.
+5. Return to `00｜Control Room` after the first 3 posts or after 7 days for signal review.
 
 ---
 
