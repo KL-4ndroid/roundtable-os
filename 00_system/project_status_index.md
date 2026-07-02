@@ -25,7 +25,7 @@ This is a dashboard, not a full record. Keep it short.
 
 | Project ID | Project name | Type | Status | Owner room | Last updated | Next action |
 |---|---|---|---|---|---|---|
-| P-001 | Instagram 手作市集品牌主痛點探索 | Pain point validation | VALIDATING | Control Room | 2026-07-02 | Send to Audience Insight Room, then Instagram Content Room |
+| P-001 | Instagram 0 粉啟動｜手作市集品牌主共鳴內容 | Content launch / Audience building | BUILDING | Control Room + Instagram Content Room | 2026-07-02 | Produce first 3 publish-ready posts, then review signals |
 
 ---
 
